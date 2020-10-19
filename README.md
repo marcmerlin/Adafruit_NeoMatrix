@@ -6,3 +6,5 @@ After downloading, rename folder to 'Adafruit_NeoMatrix' and install in Arduino 
 
 [shield]: http://adafruit.com/products/1430
 [strip]:  http://adafruit.com/products/1138
+
+test
